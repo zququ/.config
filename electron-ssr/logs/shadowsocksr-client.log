@@ -1,0 +1,928 @@
+2021-09-08 15:53:26:470 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-08 15:53:26:777 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-08 15:53:27:653 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 15:53:27:654 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 15:53:29:089 [info] start download ssr
+2021-09-08 15:56:20:056 [info] ssr download success
+2021-09-08 16:00:18:164 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 0.0.0.11 -p 1 -k ****** -m none -O origin -o plain -b 0.0.0.0 -l 1080
+2021-09-08 16:00:18:172 [info] pac server listen at: 0.0.0.0:2333
+2021-09-08 16:00:18:172 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-08 16:00:58:874 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 1080
+2021-09-08 16:01:11:623 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 1080
+2021-09-08 16:01:18:573 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.49.65 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 1080
+2021-09-08 16:01:24:414 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.59.90 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 1080
+2021-09-08 16:01:31:458 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.69.146 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 1080
+2021-09-08 16:03:21:944 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.69.146 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:04:14:137 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.52.225 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:09:09:254 [info] http proxy server closed.
+2021-09-08 16:09:14:648 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-08 16:09:14:656 [info] last update time: Wed Sep 08 2021 16:09:14 GMT+0800 (CST)
+2021-09-08 16:09:14:690 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-08 16:09:14:697 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.52.225 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:09:14:704 [info] pac server listen at: 0.0.0.0:2333
+2021-09-08 16:09:14:704 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-08 16:09:14:729 [info] next subscribe update time: Thu Sep 09 2021 16:09:14 GMT+0800 (CST)
+2021-09-08 16:09:15:505 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 16:09:15:506 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 16:09:27:456 [info] http proxy server closed.
+2021-09-08 16:10:34:246 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-08 16:10:34:271 [info] last update time: Wed Sep 08 2021 16:10:34 GMT+0800 (CST)
+2021-09-08 16:10:34:307 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-08 16:10:34:312 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.52.225 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:10:34:317 [info] pac server listen at: 0.0.0.0:2333
+2021-09-08 16:10:34:317 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-08 16:10:34:328 [info] next subscribe update time: Thu Sep 09 2021 16:10:34 GMT+0800 (CST)
+2021-09-08 16:10:34:474 [error] /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/../shadowsocks/common.py:256: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if addr is "":
+/home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/../shadowsocks/common.py:268: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if len(block) is 1:
+/home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/../shadowsocks/common.py:270: SyntaxWarning: "is not" with a literal. Did you mean "!="?
+  while (ip & 1) == 0 and ip is not 0:
+2021-09-08 16:10:34 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:10:34:474 [error] 2021-09-08 16:10:34 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:10:34 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-08 16:10:34 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:10:35:133 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 16:10:35:134 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 16:11:29:901 [info] Kill client
+2021-09-08 16:11:29:904 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:11:29:988 [error] 2021-09-08 16:11:29 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:11:29:989 [error] 2021-09-08 16:11:29 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:11:29 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-08 16:11:29:989 [error] 2021-09-08 16:11:29 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:11:48:800 [info] Kill client
+2021-09-08 16:11:48:803 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:11:48:895 [error] 2021-09-08 16:11:48 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:11:48:895 [error] 2021-09-08 16:11:48 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:11:48 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-08 16:11:48:895 [error] 2021-09-08 16:11:48 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:16:55:803 [info] Kill client
+2021-09-08 16:16:55:805 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:16:55:888 [error] 2021-09-08 16:16:55 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:16:55:888 [error] 2021-09-08 16:16:55 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:16:55 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-08 16:16:55:888 [error] 2021-09-08 16:16:55 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:17:01:942 [info] Kill client
+2021-09-08 16:17:01:943 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.49.65 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:17:02:033 [error] 2021-09-08 16:17:02 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:17:02:033 [error] 2021-09-08 16:17:02 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:17:02 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-08 16:17:02:033 [error] 2021-09-08 16:17:02 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:17:14:017 [info] Kill client
+2021-09-08 16:17:22:396 [info] last update time: Wed Sep 08 2021 16:17:22 GMT+0800 (CST)
+2021-09-08 16:17:22:429 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-08 16:17:22:434 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.49.65 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:17:22:439 [info] pac server listen at: 0.0.0.0:2333
+2021-09-08 16:17:22:440 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-08 16:17:22:472 [info] next subscribe update time: Thu Sep 09 2021 16:17:22 GMT+0800 (CST)
+2021-09-08 16:17:22:526 [error] 2021-09-08 16:17:22 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:17:22:526 [error] 2021-09-08 16:17:22 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:17:22 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-08 16:17:22 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:17:22:958 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-08 16:17:23:855 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 16:17:23:857 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 16:18:10:129 [info] Kill client
+2021-09-08 16:18:10:132 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.59.90 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:18:10:218 [error] 2021-09-08 16:18:10 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:18:10:218 [error] 2021-09-08 16:18:10 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:18:10 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-08 16:18:10:218 [error] 2021-09-08 16:18:10 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:18:12:446 [error] 2021-09-08 16:18:12 ERROR    tcprelay.py:1035 [Errno 101] Network is unreachable
+2021-09-08 16:18:12 ERROR    tcprelay.py:1037 remote error, when connect to www.httpbin.org:80
+
+2021-09-08 16:18:21:545 [info] Kill client
+2021-09-08 16:18:21:547 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 47.242.69.146 -p 998 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:18:21:640 [error] 2021-09-08 16:18:21 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:18:21:640 [error] 2021-09-08 16:18:21 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:18:21 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-08 16:18:21:641 [error] 2021-09-08 16:18:21 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:18:31:518 [info] Kill client
+2021-09-08 16:18:31:520 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s 8.210.230.94 -p 80 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:18:31:608 [error] 2021-09-08 16:18:31 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:18:31:608 [error] 2021-09-08 16:18:31 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:18:31 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-08 16:18:31 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 16:21:45:740 [info] Kill client
+2021-09-08 16:21:45:742 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 16:21:45:825 [error] 2021-09-08 16:21:45 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 16:21:45:825 [error] 2021-09-08 16:21:45 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 16:21:45 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-08 16:21:45:826 [error] 2021-09-08 16:21:45 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 17:02:22:352 [info] last update time: Wed Sep 08 2021 17:02:22 GMT+0800 (CST)
+2021-09-08 17:02:22:384 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-08 17:02:22:390 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-08 17:02:22:395 [info] pac server listen at: 0.0.0.0:2333
+2021-09-08 17:02:22:395 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-08 17:02:22:424 [info] next subscribe update time: Thu Sep 09 2021 17:02:22 GMT+0800 (CST)
+2021-09-08 17:02:22:504 [error] 2021-09-08 17:02:22 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-08 17:02:22:505 [error] 2021-09-08 17:02:22 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-08 17:02:22 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-08 17:02:22 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-08 17:03:22:512 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_CLOSED
+2021-09-08 17:03:23:396 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-08 17:03:23:396 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-09 16:39:20:326 [info] last update time: Thu Sep 09 2021 16:39:20 GMT+0800 (CST)
+2021-09-09 16:39:20:361 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-09 16:39:20:367 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-09 16:39:20:372 [info] pac server listen at: 0.0.0.0:2333
+2021-09-09 16:39:20:372 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-09 16:39:20:432 [info] next subscribe update time: Fri Sep 10 2021 16:39:20 GMT+0800 (CST)
+2021-09-09 16:39:20:474 [error] 2021-09-09 16:39:20 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-09 16:39:20:474 [error] 2021-09-09 16:39:20 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-09 16:39:20 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-09 16:39:20 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-09 16:39:20:936 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-09 16:39:21:830 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-09 16:39:21:831 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 15:10:37:254 [info] last update time: Fri Sep 10 2021 15:10:37 GMT+0800 (CST)
+2021-09-10 15:10:37:287 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-10 15:10:37:292 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-10 15:10:37:298 [info] pac server listen at: 0.0.0.0:2333
+2021-09-10 15:10:37:299 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-10 15:10:37:334 [info] next subscribe update time: Sat Sep 11 2021 15:10:37 GMT+0800 (CST)
+2021-09-10 15:10:37:410 [error] 2021-09-10 15:10:37 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-10 15:10:37:410 [error] 2021-09-10 15:10:37 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-10 15:10:37 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-10 15:10:37 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-10 15:10:37:820 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-10 15:10:38:701 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 15:10:38:701 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 15:35:01:041 [info] last update time: Fri Sep 10 2021 15:35:01 GMT+0800 (CST)
+2021-09-10 15:35:01:073 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-10 15:35:01:079 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-10 15:35:01:085 [info] pac server listen at: 0.0.0.0:2333
+2021-09-10 15:35:01:086 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-10 15:35:01:116 [info] next subscribe update time: Sat Sep 11 2021 15:35:01 GMT+0800 (CST)
+2021-09-10 15:35:01:194 [error] 2021-09-10 15:35:01 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-10 15:35:01:195 [error] 2021-09-10 15:35:01 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-10 15:35:01 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-10 15:35:01 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-10 15:36:01:351 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_CLOSED
+2021-09-10 15:36:05:450 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 15:36:05:451 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 16:42:48:380 [info] last update time: Fri Sep 10 2021 16:42:48 GMT+0800 (CST)
+2021-09-10 16:42:48:414 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-10 16:42:48:419 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-10 16:42:48:425 [info] pac server listen at: 0.0.0.0:2333
+2021-09-10 16:42:48:425 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-10 16:42:48:427 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-10 16:42:48:456 [info] next subscribe update time: Sat Sep 11 2021 16:42:48 GMT+0800 (CST)
+2021-09-10 16:42:48:538 [error] 2021-09-10 16:42:48 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-10 16:42:48:539 [error] 2021-09-10 16:42:48 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-10 16:42:48 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-10 16:42:48 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-10 16:42:49:334 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 16:42:49:335 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 16:54:55:521 [info] Kill client
+2021-09-10 16:55:11:134 [info] last update time: Fri Sep 10 2021 16:55:11 GMT+0800 (CST)
+2021-09-10 16:55:11:168 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-10 16:55:11:174 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-10 16:55:11:178 [info] pac server listen at: 0.0.0.0:2333
+2021-09-10 16:55:11:179 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-10 16:55:11:218 [info] next subscribe update time: Sat Sep 11 2021 16:55:11 GMT+0800 (CST)
+2021-09-10 16:55:11:264 [error] 2021-09-10 16:55:11 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-10 16:55:11:265 [error] 2021-09-10 16:55:11 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-10 16:55:11 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-10 16:55:11 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-10 16:55:11:683 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-10 16:55:12:569 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 16:55:12:571 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 16:58:41:908 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-10 16:58:41:937 [info] last update time: Fri Sep 10 2021 16:58:41 GMT+0800 (CST)
+2021-09-10 16:58:41:967 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-10 16:58:41:972 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-10 16:58:41:977 [info] pac server listen at: 0.0.0.0:2333
+2021-09-10 16:58:41:977 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-10 16:58:41:991 [info] next subscribe update time: Sat Sep 11 2021 16:58:41 GMT+0800 (CST)
+2021-09-10 16:58:42:082 [error] 2021-09-10 16:58:42 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-10 16:58:42:082 [error] 2021-09-10 16:58:42 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-10 16:58:42 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-10 16:58:42 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-10 16:58:43:081 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 16:58:43:081 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 17:20:25:900 [info] last update time: Fri Sep 10 2021 17:20:25 GMT+0800 (CST)
+2021-09-10 17:20:25:930 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-10 17:20:25:935 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-10 17:20:25:940 [info] pac server listen at: 0.0.0.0:2333
+2021-09-10 17:20:25:940 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-10 17:20:25:971 [info] next subscribe update time: Sat Sep 11 2021 17:20:25 GMT+0800 (CST)
+2021-09-10 17:20:26:050 [error] 2021-09-10 17:20:26 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-10 17:20:26:051 [error] 2021-09-10 17:20:26 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-10 17:20:26 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-10 17:20:26 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-10 17:22:30:207 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_CLOSED
+2021-09-10 17:22:31:215 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-10 17:22:31:215 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 15:09:37:727 [info] last update time: Sat Sep 11 2021 15:09:37 GMT+0800 (CST)
+2021-09-11 15:09:37:760 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 15:09:37:764 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 15:09:37:770 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 15:09:37:771 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 15:09:37:807 [info] next subscribe update time: Sun Sep 12 2021 15:09:37 GMT+0800 (CST)
+2021-09-11 15:09:37:880 [error] 2021-09-11 15:09:37 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 15:09:37:881 [error] 2021-09-11 15:09:37 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 15:09:37 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 15:09:37 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 15:09:38:273 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-11 15:09:39:135 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 15:09:39:137 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 15:09:39:229 [info] Kill client
+2021-09-11 15:09:39:234 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11150 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 15:09:39:330 [error] 2021-09-11 15:09:39 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 15:09:39:331 [error] 2021-09-11 15:09:39 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 15:09:39 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-11 15:09:39:331 [error] 2021-09-11 15:09:39 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 15:52:06:044 [info] Kill client
+2021-09-11 15:52:06:046 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 15:52:06:134 [error] 2021-09-11 15:52:06 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 15:52:06:134 [error] 2021-09-11 15:52:06 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 15:52:06 INFO     local.py:53 starting local at 0.0.0.0:10808
+
+2021-09-11 15:52:06:134 [error] 2021-09-11 15:52:06 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 16:55:09:132 [info] last update time: Sat Sep 11 2021 16:55:09 GMT+0800 (CST)
+2021-09-11 16:55:09:164 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 16:55:09:169 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 16:55:09:174 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 16:55:09:174 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 16:55:09:206 [info] next subscribe update time: Sun Sep 12 2021 16:55:09 GMT+0800 (CST)
+2021-09-11 16:55:09:280 [error] 2021-09-11 16:55:09 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 16:55:09:281 [error] 2021-09-11 16:55:09 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 16:55:09 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 16:55:09 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 16:55:55:215 [info] last update time: Sat Sep 11 2021 16:55:55 GMT+0800 (CST)
+2021-09-11 16:55:55:245 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 16:55:55:250 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 16:55:56:852 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 16:55:56:870 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 16:55:56:871 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 16:55:56:881 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-11 16:55:56:890 [info] next subscribe update time: Sun Sep 12 2021 16:55:55 GMT+0800 (CST)
+2021-09-11 16:55:56:951 [error] 2021-09-11 16:55:56 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 16:55:56:951 [error] 2021-09-11 16:55:56 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 16:55:56 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 16:55:56 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 16:55:56:953 [error] 2021-09-11 16:55:56 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 16:55:56:953 [info] IPv6 support
+
+2021-09-11 16:56:15:112 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-11 16:56:15:124 [info] last update time: Sat Sep 11 2021 16:56:15 GMT+0800 (CST)
+2021-09-11 16:56:15:152 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 16:56:15:158 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 16:56:17:393 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 16:56:17:402 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 16:56:17:402 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 16:56:17:428 [info] next subscribe update time: Sun Sep 12 2021 16:56:15 GMT+0800 (CST)
+2021-09-11 16:56:17:489 [error] 2021-09-11 16:56:17 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 16:56:17:490 [error] 2021-09-11 16:56:17 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 16:56:17 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 16:56:17 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 16:56:17:491 [error] 2021-09-11 16:56:17 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 16:56:17:491 [info] IPv6 support
+
+2021-09-11 16:56:18:358 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 16:56:18:360 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:00:52:525 [info] Kill client
+2021-09-11 17:01:08:470 [info] last update time: Sat Sep 11 2021 17:01:08 GMT+0800 (CST)
+2021-09-11 17:01:08:504 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:01:08:510 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:01:11:053 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:01:11:060 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:01:11:060 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:01:11:078 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-11 17:01:11:090 [info] next subscribe update time: Sun Sep 12 2021 17:01:08 GMT+0800 (CST)
+2021-09-11 17:01:11:144 [error] 2021-09-11 17:01:11 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:01:11:145 [error] 2021-09-11 17:01:11 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:01:11 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:01:11 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:01:11:146 [error] 2021-09-11 17:01:11 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:01:11:146 [info] IPv6 support
+
+2021-09-11 17:01:41:386 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TIMED_OUT
+2021-09-11 17:01:41:387 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TIMED_OUT
+2021-09-11 17:01:42:327 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:01:42:327 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:02:19:690 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-11 17:02:19:703 [info] last update time: Sat Sep 11 2021 17:02:19 GMT+0800 (CST)
+2021-09-11 17:02:19:734 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:02:19:741 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:02:21:900 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:02:21:919 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:02:21:920 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:02:21:968 [info] next subscribe update time: Sun Sep 12 2021 17:02:19 GMT+0800 (CST)
+2021-09-11 17:02:22:035 [error] 2021-09-11 17:02:22 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:02:22:035 [error] 2021-09-11 17:02:22 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:02:22 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:02:22 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:02:22:036 [error] 2021-09-11 17:02:22 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:02:22:037 [info] IPv6 support
+
+2021-09-11 17:02:22:868 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:02:22:868 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:06:31:933 [info] Kill client
+2021-09-11 17:06:44:696 [info] last update time: Sat Sep 11 2021 17:06:44 GMT+0800 (CST)
+2021-09-11 17:06:44:730 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:06:44:736 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:06:46:880 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:06:46:889 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:06:46:889 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:06:46:908 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-11 17:06:46:920 [info] next subscribe update time: Sun Sep 12 2021 17:06:44 GMT+0800 (CST)
+2021-09-11 17:06:46:986 [error] 2021-09-11 17:06:46 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:06:46:986 [error] 2021-09-11 17:06:46 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:06:46 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:06:46 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:06:46:988 [error] 2021-09-11 17:06:46 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:06:46:988 [info] IPv6 support
+
+2021-09-11 17:06:47:855 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:06:47:856 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:09:27:296 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-11 17:09:27:308 [info] last update time: Sat Sep 11 2021 17:09:27 GMT+0800 (CST)
+2021-09-11 17:09:27:337 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:09:27:342 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:09:28:491 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:09:28:499 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:09:28:499 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:09:28:523 [info] next subscribe update time: Sun Sep 12 2021 17:09:27 GMT+0800 (CST)
+2021-09-11 17:09:28:582 [error] 2021-09-11 17:09:28 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:09:28:583 [error] 2021-09-11 17:09:28 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:09:28 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:09:28 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:09:28:584 [error] 2021-09-11 17:09:28 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:09:28:585 [info] IPv6 support
+
+2021-09-11 17:09:29:873 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:09:29:873 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:23:55:264 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-11 17:23:55:275 [info] last update time: Sat Sep 11 2021 17:23:55 GMT+0800 (CST)
+2021-09-11 17:23:55:303 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:23:55:309 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:23:56:993 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:23:57:002 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:23:57:003 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:23:57:022 [info] next subscribe update time: Sun Sep 12 2021 17:23:55 GMT+0800 (CST)
+2021-09-11 17:23:57:086 [error] 2021-09-11 17:23:57 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:23:57:087 [error] 2021-09-11 17:23:57 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:23:57 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:23:57 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:23:57:089 [error] 2021-09-11 17:23:57 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:23:57:089 [info] IPv6 support
+
+2021-09-11 17:23:57:879 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:23:57:880 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:29:44:041 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-11 17:29:44:050 [info] last update time: Sat Sep 11 2021 17:29:44 GMT+0800 (CST)
+2021-09-11 17:29:44:081 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:29:44:087 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:29:45:521 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:29:45:536 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:29:45:537 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:29:45:556 [info] next subscribe update time: Sun Sep 12 2021 17:29:44 GMT+0800 (CST)
+2021-09-11 17:29:45:619 [error] 2021-09-11 17:29:45 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:29:45:619 [error] 2021-09-11 17:29:45 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:29:45 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:29:45 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:29:45:621 [error] 2021-09-11 17:29:45 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:29:45:621 [info] IPv6 support
+
+2021-09-11 17:29:46:411 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:29:46:412 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:37:30:228 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-11 17:37:30:235 [info] last update time: Sat Sep 11 2021 17:37:30 GMT+0800 (CST)
+2021-09-11 17:37:30:265 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:37:30:274 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:37:33:850 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:37:33:859 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:37:33:859 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:37:33:876 [info] next subscribe update time: Sun Sep 12 2021 17:37:30 GMT+0800 (CST)
+2021-09-11 17:37:33:940 [error] 2021-09-11 17:37:33 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:37:33:940 [error] 2021-09-11 17:37:33 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:37:33 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:37:33 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:37:33:941 [error] 2021-09-11 17:37:33 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:37:33:942 [info] IPv6 support
+
+2021-09-11 17:37:34:720 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:37:34:720 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:43:19:717 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-11 17:43:19:726 [info] last update time: Sat Sep 11 2021 17:43:19 GMT+0800 (CST)
+2021-09-11 17:43:19:754 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:43:19:759 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:43:21:489 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:43:21:498 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:43:21:498 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:43:21:521 [info] next subscribe update time: Sun Sep 12 2021 17:43:19 GMT+0800 (CST)
+2021-09-11 17:43:21:584 [error] 2021-09-11 17:43:21 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:43:21:584 [error] 2021-09-11 17:43:21 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:43:21 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:43:21 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:43:21:585 [error] 2021-09-11 17:43:21 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:43:21:586 [info] IPv6 support
+
+2021-09-11 17:43:22:357 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:43:22:358 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:45:29:291 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-11 17:45:29:302 [info] last update time: Sat Sep 11 2021 17:45:29 GMT+0800 (CST)
+2021-09-11 17:45:29:331 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 17:45:29:337 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 17:45:32:093 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 17:45:32:103 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 17:45:32:103 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 17:45:32:125 [info] next subscribe update time: Sun Sep 12 2021 17:45:29 GMT+0800 (CST)
+2021-09-11 17:45:32:201 [error] 2021-09-11 17:45:32 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 17:45:32:201 [error] 2021-09-11 17:45:32 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 17:45:32 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 17:45:32 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 17:45:32:202 [error] 2021-09-11 17:45:32 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 17:45:32:203 [info] IPv6 support
+
+2021-09-11 17:45:32:983 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 17:45:32:984 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 18:08:18:941 [info] last update time: Sat Sep 11 2021 18:08:18 GMT+0800 (CST)
+2021-09-11 18:08:18:972 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 18:08:18:978 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 18:08:21:425 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 18:08:21:440 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 18:08:21:441 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 18:08:21:460 [info] next subscribe update time: Sun Sep 12 2021 18:08:18 GMT+0800 (CST)
+2021-09-11 18:08:21:530 [error] 2021-09-11 18:08:21 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 18:08:21:531 [error] 2021-09-11 18:08:21 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 18:08:21 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 18:08:21 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 18:08:21:532 [error] 2021-09-11 18:08:21 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 18:08:21:532 [info] IPv6 support
+
+2021-09-11 18:09:19:086 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_CLOSED
+2021-09-11 18:09:19:935 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 18:09:19:936 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 18:12:01:655 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-11 18:12:01:662 [info] last update time: Sat Sep 11 2021 18:12:01 GMT+0800 (CST)
+2021-09-11 18:12:01:690 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 18:12:01:696 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 18:12:05:316 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 18:12:05:323 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 18:12:05:324 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 18:12:05:341 [info] next subscribe update time: Sun Sep 12 2021 18:12:01 GMT+0800 (CST)
+2021-09-11 18:12:05:406 [error] 2021-09-11 18:12:05 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 18:12:05:406 [error] 2021-09-11 18:12:05 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 18:12:05 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 18:12:05 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 18:12:05:407 [error] 2021-09-11 18:12:05 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 18:12:05:408 [info] IPv6 support
+
+2021-09-11 18:12:06:175 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 18:12:06:175 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 19:00:19:429 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2021-09-11 19:00:19:442 [info] last update time: Sat Sep 11 2021 19:00:19 GMT+0800 (CST)
+2021-09-11 19:00:19:471 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-11 19:00:19:477 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-11 19:00:20:306 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-11 19:00:20:312 [info] pac server listen at: 0.0.0.0:2333
+2021-09-11 19:00:20:313 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-11 19:00:20:336 [info] next subscribe update time: Sun Sep 12 2021 19:00:19 GMT+0800 (CST)
+2021-09-11 19:00:20:400 [error] 2021-09-11 19:00:20 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-11 19:00:20:400 [error] 2021-09-11 19:00:20 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-11 19:00:20 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-11 19:00:20 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-11 19:00:20:401 [error] 2021-09-11 19:00:20 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-11 19:00:20:402 [info] IPv6 support
+
+2021-09-11 19:00:21:190 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-11 19:00:21:190 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-12 19:18:21:188 [info] last update time: Sun Sep 12 2021 19:18:21 GMT+0800 (CST)
+2021-09-12 19:18:21:223 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-12 19:18:21:231 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-12 19:18:21:237 [info] pac server listen at: 0.0.0.0:2333
+2021-09-12 19:18:21:237 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-12 19:18:21:265 [info] next subscribe update time: Mon Sep 13 2021 19:18:21 GMT+0800 (CST)
+2021-09-12 19:18:21:359 [error] 2021-09-12 19:18:21 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+2021-09-12 19:18:21 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-12 19:18:21 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-12 19:18:21 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-12 19:18:21:760 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-12 19:18:22:627 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-12 19:18:22:628 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-12 19:19:51:702 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-12 19:19:51:715 [info] last update time: Sun Sep 12 2021 19:19:51 GMT+0800 (CST)
+2021-09-12 19:19:51:743 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-12 19:19:51:748 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-12 19:19:55:153 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-12 19:19:55:162 [info] pac server listen at: 0.0.0.0:2333
+2021-09-12 19:19:55:162 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-12 19:19:55:192 [info] next subscribe update time: Mon Sep 13 2021 19:19:51 GMT+0800 (CST)
+2021-09-12 19:19:55:249 [error] 2021-09-12 19:19:55 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-12 19:19:55:249 [error] 2021-09-12 19:19:55 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-12 19:19:55 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-12 19:19:55 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-12 19:19:55:252 [error] 2021-09-12 19:19:55 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-12 19:19:55:252 [info] IPv6 support
+
+2021-09-12 19:19:56:114 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-12 19:19:56:114 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 10:47:42:843 [info] last update time: Mon Sep 13 2021 10:47:42 GMT+0800 (CST)
+2021-09-13 10:47:42:876 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-13 10:47:42:886 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-13 10:47:43:897 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-13 10:47:43:903 [info] pac server listen at: 0.0.0.0:2333
+2021-09-13 10:47:43:903 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-13 10:47:43:922 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-13 10:47:43:931 [info] next subscribe update time: Tue Sep 14 2021 10:47:42 GMT+0800 (CST)
+2021-09-13 10:47:44:007 [error] 2021-09-13 10:47:44 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-13 10:47:44:008 [error] 2021-09-13 10:47:44 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-13 10:47:44 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-13 10:47:44 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-13 10:47:44:010 [error] 2021-09-13 10:47:44 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-13 10:47:44:011 [info] IPv6 support
+
+2021-09-13 10:47:44:783 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 10:47:44:783 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 14:45:17:251 [info] Kill client
+2021-09-13 14:45:17:256 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 14:45:18:195 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 14:45:18:196 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 14:45:22:262 [error] 进程 386829 可能无法关闭
+2021-09-13 14:45:36:290 [info] Kill client
+2021-09-13 14:45:36:298 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 14:45:36:523 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 14:45:36:524 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 14:45:41:295 [error] 进程 386829 可能无法关闭
+2021-09-13 15:00:42:458 [info] Kill client
+2021-09-13 15:00:42:460 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 15:00:43:116 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:00:43:118 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:00:47:463 [error] 进程 386829 可能无法关闭
+2021-09-13 15:00:53:889 [info] Kill client
+2021-09-13 15:00:53:893 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 15:00:54:118 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:00:54:119 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:00:58:894 [error] 进程 386829 可能无法关闭
+2021-09-13 15:01:07:966 [info] Kill client
+2021-09-13 15:01:07:967 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 15:01:08:192 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:01:08:193 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:01:12:970 [error] 进程 386829 可能无法关闭
+2021-09-13 15:01:24:856 [info] Kill client
+2021-09-13 15:01:24:858 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 15:01:25:083 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:01:25:086 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:01:29:862 [error] 进程 386829 可能无法关闭
+2021-09-13 15:02:51:329 [info] Kill client
+2021-09-13 15:02:51:335 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 15:02:51:963 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:02:51:963 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:02:56:334 [error] 进程 386829 可能无法关闭
+2021-09-13 15:06:28:043 [info] Kill client
+2021-09-13 15:06:28:049 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-13 15:06:28:685 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:06:28:686 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-13 15:06:33:046 [error] 进程 386829 可能无法关闭
+2021-09-14 10:20:39:084 [info] Kill client
+2021-09-14 10:20:39:086 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-14 10:20:39:973 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:20:39:974 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:20:44:087 [error] 进程 386829 可能无法关闭
+2021-09-14 10:20:47:062 [info] Kill client
+2021-09-14 10:20:47:071 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-14 10:20:47:294 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:20:47:295 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:20:52:074 [error] 进程 386829 可能无法关闭
+2021-09-14 10:20:56:922 [info] Kill client
+2021-09-14 10:20:56:924 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-14 10:20:57:143 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:20:57:144 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:21:01:926 [error] 进程 386829 可能无法关闭
+2021-09-14 10:21:04:397 [info] Kill client
+2021-09-14 10:21:04:398 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-14 10:21:04:622 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:21:04:622 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:21:09:402 [error] 进程 386829 可能无法关闭
+2021-09-14 10:21:16:287 [info] Kill client
+2021-09-14 10:21:16:289 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: kill ESRCH
+2021-09-14 10:21:16:510 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:21:16:511 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 10:21:21:290 [error] 进程 386829 可能无法关闭
+2021-09-14 10:47:42:935 [info] last update time: Tue Sep 14 2021 10:47:42 GMT+0800 (CST)
+2021-09-14 11:43:31:118 [info] last update time: Tue Sep 14 2021 11:43:31 GMT+0800 (CST)
+2021-09-14 11:43:31:154 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-14 11:43:31:160 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-14 11:43:31:165 [info] pac server listen at: 0.0.0.0:2333
+2021-09-14 11:43:31:165 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-14 11:43:31:200 [info] next subscribe update time: Wed Sep 15 2021 11:43:31 GMT+0800 (CST)
+2021-09-14 11:43:31:275 [error] 2021-09-14 11:43:31 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-14 11:43:31:275 [error] 2021-09-14 11:43:31 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-14 11:43:31 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-14 11:43:31 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-14 11:43:31:682 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-14 11:43:32:599 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 11:43:32:600 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 13:10:01:107 [info] last update time: Tue Sep 14 2021 13:10:01 GMT+0800 (CST)
+2021-09-14 13:10:01:146 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-14 13:10:01:150 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-14 13:10:01:156 [info] pac server listen at: 0.0.0.0:2333
+2021-09-14 13:10:01:156 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-14 13:10:01:188 [info] next subscribe update time: Wed Sep 15 2021 13:10:01 GMT+0800 (CST)
+2021-09-14 13:10:01:260 [error] 2021-09-14 13:10:01 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-14 13:10:01:261 [error] 2021-09-14 13:10:01 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-14 13:10:01 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-14 13:10:01 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-14 13:10:01:731 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-14 13:10:02:612 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 13:10:02:614 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 13:11:24:807 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-14 13:11:24:820 [info] last update time: Tue Sep 14 2021 13:11:24 GMT+0800 (CST)
+2021-09-14 13:11:24:846 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-14 13:11:24:851 [error] Error: listen EADDRINUSE 0.0.0.0:10808
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at doListen (net.js:1493:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+2021-09-14 13:11:28:354 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-14 13:11:28:362 [info] pac server listen at: 0.0.0.0:2333
+2021-09-14 13:11:28:363 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-14 13:11:28:378 [info] next subscribe update time: Wed Sep 15 2021 13:11:24 GMT+0800 (CST)
+2021-09-14 13:11:28:451 [error] 2021-09-14 13:11:28 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-14 13:11:28:452 [error] 2021-09-14 13:11:28 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-14 13:11:28 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-14 13:11:28 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-14 13:11:28:453 [error] 2021-09-14 13:11:28 ERROR    shell.py:50 [Errno 98] Address already in use
+
+2021-09-14 13:11:28:454 [info] IPv6 support
+
+2021-09-14 13:11:29:303 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 13:11:29:303 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 16:48:19:599 [info] last update time: Tue Sep 14 2021 16:48:19 GMT+0800 (CST)
+2021-09-14 16:48:19:632 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2021-09-14 16:48:19:637 [info] run command: python /home/zququ/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s zz2.tbssr.cc -p 11151 -k ****** -m aes-128-ctr -O auth_aes128_sha1 -G 29014:ruhBhu -o tls1.2_ticket_auth -b 0.0.0.0 -l 10808
+2021-09-14 16:48:19:643 [info] pac server listen at: 0.0.0.0:2333
+2021-09-14 16:48:19:643 [info] http proxy server listen at: 0.0.0.0:12333
+2021-09-14 16:48:19:672 [info] next subscribe update time: Wed Sep 15 2021 16:48:19 GMT+0800 (CST)
+2021-09-14 16:48:19:748 [error] 2021-09-14 16:48:19 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2021-09-14 16:48:19:748 [error] 2021-09-14 16:48:19 INFO     local.py:49 local start with protocol[auth_aes128_sha1] password [b'password'] method [aes-128-ctr] obfs [tls1.2_ticket_auth] obfs_param []
+2021-09-14 16:48:19 INFO     local.py:53 starting local at 0.0.0.0:10808
+2021-09-14 16:48:19 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2021-09-14 16:48:19:828 [error] Unhandled Rejection at: Promise [object Promise], reason: SyntaxError: Unexpected token : in JSON at position 3
+2021-09-14 16:48:20:706 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-14 16:48:20:707 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2021-09-15 03:40:13:940 [error] 2021-09-15 03:40:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57002
+
+2021-09-15 03:40:13:942 [error] 2021-09-15 03:40:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57038
+
+2021-09-15 03:41:13:233 [error] 2021-09-15 03:41:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57082
+
+2021-09-15 03:41:13:235 [error] 2021-09-15 03:41:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57086
+2021-09-15 03:41:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57090
+2021-09-15 03:41:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57094
+2021-09-15 03:41:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57116
+
+2021-09-15 03:41:13:236 [error] 2021-09-15 03:41:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57118
+2021-09-15 03:41:13 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57166
+
+2021-09-15 03:42:09:190 [error] 2021-09-15 03:42:09 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57200
+
+2021-09-15 03:42:09:191 [error] 2021-09-15 03:42:09 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57266
+2021-09-15 03:42:09 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57272
+2021-09-15 03:42:09 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57310
+2021-09-15 03:42:09 ERROR    tcprelay.py:1092 unable to parse hostname b'zz2.tbssr.cc' when handling connection from 127.0.0.1:57316
+

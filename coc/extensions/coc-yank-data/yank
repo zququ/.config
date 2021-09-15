@@ -1,0 +1,206 @@
+def2377a06207a2515084e4987f53778|file:///home/zququ/.config/nvim/_machine_specific.vim|4|26|v|vim
+	/home/zququ/.pyenv/versions/3.8.10/bin/python3.8
+df0b6829662e98c2f1be274f1c6c18f9|untitled:2|99|23|v|markdown
+	/home/zququ/.pyenv/versions/3.8.10/bin/python3.8 -m pip install pynvim
+139b2b066957cb16b6f945bc5e3a4f25|untitled:3|33|14|v|markdown
+	|g:vimtex_compiler_progname| (`nvr`) is not executable!
+5591161fe276b1284ac0f658b4faf4d1|file:///home/zququ/.bashrc|134|14|V|sh
+	export PATH=""
+cec7c0f7d193f4219b737b6804b29e3a|file:///home/zququ/.bashrc|145|21|v|sh
+	"/home/zququ/Software/anaconda3/bin:$PATH"
+1620d20838f9d8eca9204c1eaa79cc48|file:///home/zququ/.bashrc|136|1|V|sh
+	# >>> conda initialize >>>
+	# !! Contents within this block are managed by 'conda init' !!
+	__conda_setup="$('/home/zququ/Software/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+	if [ $? -eq 0 ]; then
+	    eval "$__conda_setup"
+	else
+	    if [ -f "/home/zququ/Software/anaconda3/etc/profile.d/conda.sh" ]; then
+	        . "/home/zququ/Software/anaconda3/etc/profile.d/conda.sh"
+	    else
+	        export PATH="/home/zququ/Software/anaconda3/bin:$PATH"
+	    fi
+	fi
+	unset __conda_setup
+	# <<< conda initialize <<<
+	
+6bddcba05166ad0d5a92d8525f912dd2|file:///home/zququ/.bashrc|134|1|V|sh
+	# >>> conda initialize >>>
+	# !! Contents within this block are managed by 'conda init' !!
+	__conda_setup="$('/home/zququ/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+	if [ $? -eq 0 ]; then
+	    eval "$__conda_setup"
+	else
+	    if [ -f "/home/zququ/miniconda3/etc/profile.d/conda.sh" ]; then
+	        . "/home/zququ/miniconda3/etc/profile.d/conda.sh"
+	    else
+	        export PATH="/home/zququ/miniconda3/bin:$PATH"
+	    fi
+	fi
+	unset __conda_setup
+	# <<< conda initialize <<<
+	
+0d35339db756f56c2c6f94943eac5272|file:///home/zququ/.bashrc|134|1|V|sh
+	# >>> conda initialize >>>
+	# !! Contents within this block are managed by 'conda init' !!
+	__conda_setup="$('/opt/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+	if [ $? -eq 0 ]; then
+	    eval "$__conda_setup"
+	else
+	    if [ -f "/opt/miniconda3/etc/profile.d/conda.sh" ]; then
+	        . "/opt/miniconda3/etc/profile.d/conda.sh"
+	    else
+	        export PATH="/opt/miniconda3/bin:$PATH"
+	    fi
+	fi
+	unset __conda_setup
+	# <<< conda initialize <<<
+	
+2c4e5a3183c18ffd5fc064517c124872|file:///home/zququ/.bashrc|135|1|V|sh
+	# >>> conda initialize >>>
+	# !! Contents within this block are managed by 'conda init' !!
+	__conda_setup="$('/home/zququ/Software/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+	if [ $? -eq 0 ]; then
+	    eval "$__conda_setup"
+	else
+	    if [ -f "/home/zququ/Software/miniconda3/etc/profile.d/conda.sh" ]; then
+	        . "/home/zququ/Software/miniconda3/etc/profile.d/conda.sh"
+	    else
+	        export PATH="/home/zququ/Software/miniconda3/bin:$PATH"
+	    fi
+	fi
+	unset __conda_setup
+	# <<< conda initialize <<<
+	
+1ef93a62a3537463225e783bac75c21d|file:///home/zququ/.config/alacritty/alacritty.yml|278|23|V|yaml
+	background_opacity: 0.5
+31509afaefd35ff7cfa9f9a4ba04f25f|file:///home/zququ/.config/alacritty/alacritty.yml|277|4|V|yaml
+	tran
+686ca0e2a05559c3f02bab9472d8bf9c|file:///home/zququ/.config/alacritty/alacritty.yml.new|134|5|v|yaml
+	style: Bold
+380e021274638f436fddf844f2520541|file:///home/zququ/.config/alacritty/alacritty.yml|198|11|v|yaml
+	'0x44475a'
+0dffca60551b835b7d246c6869d808f1|file:///home/zququ/.config/alacritty/alacritty.yml|199|13|v|yaml
+	'0xf8f8f2'
+8b02e649558a64b0e06e6e236ceaad69|file:///home/zququ/.config/alacritty/alacritty.yml|202|2|v|yaml
+	 normal:
+	    black:   '0x000000'
+	    red:     '0xff5555'
+	    green:   '0x50fa7b'
+	    yellow:  '0xf1fa8c'
+	    blue:    '0xbd93f9'
+	    magenta: '0xff79c6'
+	    cyan:    '0x8be9fd'
+	    white:   '0xbfbfbf'
+	
+458a482c1be9ffc9f7d6e3022b80dd84|file:///home/zququ/.config/alacritty/alacritty.yml|213|1|V|yaml
+	  bright:
+	    black:   '0x4d4d4d'
+	    red:     '0xff6e67'
+	    green:   '0x5af78e'
+	    yellow:  '0xf4f99d'
+	    blue:    '0xcaa9fa'
+	    magenta: '0xff92d0'
+	    cyan:    '0x9aedfe'
+	    white:   '0xe6e6e6'
+	
+2146ddd051d8a0842ab02122fbd70175|file:///home/zququ/.config/alacritty/alacritty.yml|227|1|V|yaml
+	  dim:
+	    black:   '0x14151b'
+	    red:     '0xff2222'
+	    green:   '0x1ef956'
+	    yellow:  '0xebf85b'
+	    blue:    '0x4d5b86'
+	    magenta: '0xff46b0'
+	    cyan:    '0x59dffc'
+	    white:   '0xe6e6d1'
+	
+5f5644ffd10be0a05473c6e077dd17ae|file:///home/zququ/.config/alacritty/alacritty.yml|277|1|V|yaml
+	window.opacity: true
+0ce793950903efbbc35a0a8bae1055a5|file:///home/zququ/.config/alacritty/alacritty.yml|501|1|v|yaml
+	  - { key: V,        mods: Control,        action: Paste            }
+	  - { key: C,        mods: Control,        action: Copy             }
+d3db383184460f154e85456dd11fab50|file:///home/zququ/.config/alacritty/alacritty.yml.new|767|1|v|yaml
+	  #- { key: Copy,                                        action: Copy           }
+10bab07ac5e29a20edd02abaf6fff9b7|file:///home/zququ/.config/alacritty/alacritty.yml|516|1|v|yaml
+	  - { key: A,         mods: Command,       chars: "\x01"                       }
+	  - { key: B,         mods: Command,       chars: "\x02"                       }
+	  - { key: C,         mods: Command,       chars: "\x03"                       }
+	  - { key: D,         mods: Command,       chars: "\x04"                       }
+	  - { key: E,         mods: Command,       chars: "\x05"                       }
+	  - { key: F,         mods: Command,       chars: "\x06"                       }
+	  - { key: G,         mods: Command,       chars: "\x07"                       }
+	  - { key: H,         mods: Command,       chars: "\x08"                       }
+	  - { key: I,         mods: Command,       chars: "\x09"                       }
+	  - { key: J,         mods: Command,       chars: "\x0A"                       }
+	  - { key: K,         mods: Command,       chars: "\x0B"                       }
+	  - { key: L,         mods: Command,       chars: "\x0C"                       }
+	  - { key: M,         mods: Command,       chars: "\x0D"                       }
+	  - { key: N,         mods: Command,       chars: "\x0E"                       }
+	  - { key: O,         mods: Command,       chars: "\x0F"                       }
+	  - { key: P,         mods: Command,       chars: "\x10"                       }
+	  - { key: Q,         mods: Command,       chars: "\x11"                       }
+	  - { key: R,         mods: Command,       chars: "\x12"                       }
+	  - { key: S,         mods: Command,       chars: "\x13"                       }
+	  - { key: T,         mods: Command,       chars: "\x14"                       }
+	  - { key: U,         mods: Command,       chars: "\x15"                       }
+	  - { key: V,         mods: Command,       chars: "\x16"                       }
+	  - { key: W,         mods: Command,       chars: "\x17"                       }
+	  - { key: X,         mods: Command,       chars: "\x18"                       }
+	  - { key: Y,         mods: Command,       chars: "\x19"                       }
+	  - { key: Z,         mods: Command,       chars: "\x1A"                       }
+	  - { key: Key1,      mods: Command,    chars: "\x1bOP"                          }
+	  - { key: Key2,      mods: Command,    chars: "\x1bOQ"                          }
+	  - { key: Key3,      mods: Command,    chars: "\x1bOR"                          }
+	  - { key: Key4,      mods: Command,    chars: "\x1bOS"                          }
+	  - { key: Key5,      mods: Command,    chars: "\x1b[15~"                        }
+	  - { key: Key6,      mods: Command,    chars: "\x1b[17~"                        }
+	  - { key: Key7,      mods: Command,    chars: "\x1b[18~"                        }
+	  - { key: Key8,      mods: Command,    chars: "\x1b[19~"                        }
+	  - { key: Key9,      mods: Command,    chars: "\x1b[20~"                        }
+	  - { key: Key0,      mods: Command,   chars: "\x1b[21~" 
+14169a942f2b8778566cbf38f1d23538|file:///home/zququ/Disks/lip/FCV_sequence/old/2280_vp1.seq|3|1|v|
+	atgtgctcaacctgcgctaacgtgcttaaatactatggctgggatccccactttagattagttgtcaaccccaacaaattcctttctgttggcttttgtgataaccctcttatgtgttgctatccagacttgcttcctgaatttggaaccctgtgggactgtgatcagtctccactacaaatttatttggaatctattcttggagatgatgaatgggcttctacctatgaggccattgatcccagcgtacccccaatgcactgggatgctatgggtaagattttccaaccacaccctggcgttctgatgcaccatatcattggtgaagtcgccaaggcttgggacccaaacctaccactgtttcgcttagaggctgatgatggttctatcacggcccctgagcaaggaacggttgttggtggggtcattgccgagcctagtgcacaaatgtcaacagctgctgatatggccacagggaaaagcgttgactctgagtgggaggcattcttttccttccacaccagcgtcaactggagtaccacagaaactcaaggaaagattttattcaaacaatctttgggacccctcctaaacccataccttgaacatcttgctaagctgtatgttgcttggtctggatctattgatgttaggttctctatctctggttctggagtatatgggggaaaacttgctgccattgtcgtaccacctggtgtagaccccgttcaaagtacatcaatgctgcaataccctcatgttctctttgacgctcgtcaagtggaaccagttatcttctctattcctgatttaaggagtactctctatcaccttatatctgatactgatactacttcccttgtgattatggtgtataatgatctcattaacccttatgctagtgatacaaactcttctggatgcattgttacagttgaaaccaagccggggccagatttcaagttccaccttctaaaaccacctggatcaatgctgacacacggttcaatacctgctgacctcatcccaaagtcgtcctccctttggattggcaatcgctattggtctgatatcactgaatttgttgtccgtccctttgtcttccaagcaaaccgacactttgattttaatcaggaaactgctgggtggagcacgccgagattccggccaataactgttacagttagtgaaagtggtgggtcaaagcttgggataggtgttgcaactgactacattgttcccggtattccagatggctggccagacacaacaattcctgaaaagcttacccctgcaggtaattatgcaattacaaccagcaataacagtgacattgctacggctactgaatacgaccatgctgatgaaatcaaaaacaacacaaactttaaaagtatgtacatctgtggatcattgcaaagagcttggggtgacaagaagatatctaatactgcttttatcaccacagcagtcaaggaaggtaacagcatcacaccgtctaacacaattgacatgactaagcttgttgtgtaccaggatgctcacgtgggcaatgatgtgcaaacttccgatgtcacccttgcacttcttggttacacaggaattggtgaacaagcaattggttcagatagagatagagtggtgcgaatcagtgtcctaccagaaactggtgcccgtggcggcaaccaccccatcttctacaaaaatacaattaaattgggctatgtgattaggtctattgatgtgtttaactcccagatcctccacacgtccagacaactatccctaaatcactacctgcttccacctgattcctttgctgtctatagaataattgattctaatggttcatggtttgacattggtattgatagtgatggtttctcttttgttggtgtttctagtttacccacactggaatttcctctctctgcctcctacatgggaattcaattggcaaaaatcaggcttgcctcaaatattaggagtagtatgacaaaattatga
+0c2a8d1d2087456edd9311acffa288a8|file:///home/zququ/.config/alacritty/alacritty.yml.old|264|12|V|yaml
+	#   - EaseOutCirc
+	#   - Linear
+04c0411ab6bce0bbb2d0739d4a84f513|file:///home/zququ/.config/alacritty/alacritty.yml|66|1|V|yaml
+	  # Background opacity
+	  #
+	  # Window opacity as a floating point number from `0.0` to `1.0`.
+	  # The value `0.0` is completely transparent and `1.0` is opaque.
+	  opacity: 0.5
+	
+4988223e0467b7c8b9ea92631eabe791|file:///home/zququ/.config/alacritty/alacritty.yml.old|95|1|V|yaml
+	#   - EaseOutCirc
+d04c07e399f17cdeecc97b9c44c22bde|file:///home/zququ/.config/alacritty/alacritty.yml.old|93|1|V|yaml
+	# Font configuration
+	#
+	  # Background opacity
+eb7d8e633547c54843b9b74520993b02|file:///home/zququ/.config/alacritty/alacritty.yml.old|101|1|V|yaml
+	  # Background opacity
+73142380c57e0fcc4efbac64b797263f|file:///home/zququ/.config/alacritty/alacritty.yml.old|93|1|V|yaml
+	  # Background opacity
+	  # Window opacity as a floating point number from `0.0` to `1.0`.
+	  # The value `0.0` is completely transparent and `1.0` is opaque.
+	  opacity: 0.5
+8d5a1a6f5063b8a21ee47ac3efe57f64|file:///home/zququ/.config/alacritty/alacritty.yml.old|282|1|V|yaml
+	# Background opacity
+	#
+	# Window opacity as a floating point number from `0.0` to `1.0`.
+	# The value `0.0` is completely transparent and `1.0` is opaque.
+	opacity: 0.5
+	
+629dd867445ff77a175a737596789d53|file:///home/zququ/.config/i3/config|259|13|v|conf
+	--no-startup-id
+70668861beabd06af93d22b1f08b8bd4|file:///home/zququ/.config/i3/config|88|53|v|conf
+	-theme /home/zququ/Software/rofi/themes/nord.rasi
+	
+877acff86734e859ae4a6b61864d064a|file:///home/zququ/bin/ove|5|24|v|sh
+	calhost:3344/
+c723fc3d1707e3d3e4ccf78f683630fb|file:///home/zququ/bin/ove|5|1|V|sh
+	lemonade open http://localhost:3344/
+bb17d98d8a036c28eb916ca1efb64ef4|file:///home/zququ/bin/ove|3|1|V|sh
+	cd /home/zququ/Software/openVectorEditor
+2e16c2f33bded443cb91590b55502828|file:///home/zququ/Disks/lip/projection/FCV/2280vp1.fa|2|1|v|
+	MCSTCANVLKYYGWDPHFRLVVNPNKFLSVGFCDNPLMCCYPDLLPEFGTLWDCDQSPLQIYLESILGDDEWASTYEAIDPSVPPMHWDAMGKIFQPHPGVLMHHIIGEVAKAWDPNLPLFRLEADDGSITAPEQGTVVGGVIAEPSAQMSTAADMATGKSVDSEWEAFFSFHTSVNWSTTETQGKILFKQSLGPLLNPYLEHLAKLYVAWSGSIDVRFSISGSGVYGGKLAAIVVPPGVDPVQSTSMLQYPHVLFDARQVEPVIFSIPDLRSTLYHLISDTDTTSLVIMVYNDLINPYASDTNSSGCIVTVETKPGPDFKFHLLKPPGSMLTHGSIPADLIPKSSSLWIGNRYWSDITEFVVRPFVFQANRHFDFNQETAGWSTPRFRPITVTVSESGGSKLGIGVATDYIVPGIPDGWPDTTIPEKLTPAGNYAITTSNNSDIATATEYDHADEIKNNTNFKSMYICGSLQRAWGDKKISNTAFITTAVKEGNSITPSNTIDMTKLVVYQDAHVGNDVQTSDVTLALLGYTGIGEQAIGSDRDRVVRISVLPETGARGGNHPIFYKNTIKLGYVIRSIDVFNSQILHTSRQLSLNHYLLPPDSFAVYRIIDSNGSWFDIGIDSDGFSFVGVSSLPTLEFPLSASYMGIQLAKIRLASNIRSSMTKL*
